@@ -1,0 +1,29 @@
+body{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: thin;
+    background-color: black;
+    background-image: url(crimson\ web.jpg);
+    font-size: 70pt;
+}
+article{
+    color: crimson;
+    margin: 10px;
+    background-image: url(crimson\ web.jpg);
+}
+header{
+    font-size: 70pt;
+    text-align: center;
+    background: -moz-linear-gradient(crimson);
+    background-image: -webkit-image-set();
+    color: rgb(red, green, blue);
+    border: thin;
+    margin: 20px 30px;
+    padding: 10px 20px;
+    background-image: url(crimson\ web.jpg);
+}
+table{
+    background-image: url(crimson\ web.jpg);
+    color: crimson;
+ 
+}
